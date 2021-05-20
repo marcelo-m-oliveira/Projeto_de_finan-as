@@ -19,7 +19,7 @@ html {
 }
 
 body {
-    background: #f0f2f5;
+    background: #1B1A1A;
     font-family: 'Poppins', sans-serif
 }
 
@@ -104,7 +104,7 @@ button:hover {
 
 /* Header ===================== */
 header {
-    background: #2D4A22;
+    background: #000;
     padding: 2rem 0 10rem;
     text-align: center;
 }
@@ -189,11 +189,11 @@ table thead th {
 }
 
 table tbody tr {
-    opacity: 0.7
+    opacity: 1
 }
 
 table tbody tr:hover {
-    opacity: 1
+    opacity: 0.8
 }
 
 table tbody td {
@@ -289,9 +289,7 @@ input {
 footer {
     text-align: center;
     padding: 4rem 0 2rem;
-    color: var(--dark-blue);
-
-    opacity: 0.6;
+    color: #fff;
 }
 
 
